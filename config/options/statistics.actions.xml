@@ -1,0 +1,11 @@
+<application>
+  <component name="ActionsCollector">
+    <counts>
+      <entry action="CheckForUpdate" count="1" />
+      <entry action="CleanGradleProject" count="1" />
+      <entry action="OpenFile" count="2" />
+      <entry action="RebuildGradleProject" count="1" />
+      <entry action="Run" count="6" />
+    </counts>
+  </component>
+</application>

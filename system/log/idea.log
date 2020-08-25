@@ -1,0 +1,371 @@
+2020-08-24 12:09:01,086 [      0]   INFO -        #com.intellij.idea.Main - ------------------------------------------------------ IDE STARTED ------------------------------------------------------ 
+2020-08-24 12:09:01,203 [    117]   INFO -        #com.intellij.idea.Main - JNA library (64-bit) loaded in 82 ms 
+2020-08-24 12:09:01,340 [    254]   INFO -        #com.intellij.idea.Main - IDE: Android Studio (build #AI-193.6911.18.40.6626763, 25 Jun 2020 04:42) 
+2020-08-24 12:09:01,340 [    254]   INFO -        #com.intellij.idea.Main - OS: Windows 10 (10.0, amd64) 
+2020-08-24 12:09:01,340 [    254]   INFO -        #com.intellij.idea.Main - JRE: 1.8.0_242-release-1644-b01 (JetBrains s.r.o) 
+2020-08-24 12:09:01,341 [    255]   INFO -        #com.intellij.idea.Main - JVM: 25.242-b01 (OpenJDK 64-Bit Server VM) 
+2020-08-24 12:09:01,360 [    274]   INFO -        #com.intellij.idea.Main - JVM Args: exit -Xms256m -Xmx1280m -XX:ReservedCodeCacheSize=240m -XX:+UseConcMarkSweepGC -XX:SoftRefLRUPolicyMSPerMB=50 -XX:CICompilerCount=2 -Dsun.io.useCanonPrefixCache=false -Djava.net.preferIPv4Stack=true -Djdk.http.auth.tunneling.disabledSchemes="" -Djdk.attach.allowAttachSelf=true -Dkotlinx.coroutines.debug=off -Djdk.module.illegalAccess.silent=true -Djna.nosys=true -Djna.boot.library.path= -Djb.vmOptionsFile=C:\Program Files\Android\Android Studio\bin\studio64.exe.vmoptions -Djava.library.path=C:\Program Files\Android\Android Studio\jre\jre\bin;C:\Program Files\Android\Android Studio\jre\jre\bin\server -Didea.platform.prefix=AndroidStudio -Didea.jre.check=true -Dide.native.launcher=true -Didea.paths.selector=AndroidStudio4.0 -XX:ErrorFile=C:\Users\Tali\java_error_in_studio_%p.log -XX:HeapDumpPath=C:\Users\Tali\java_error_in_studio.hprof 
+2020-08-24 12:09:01,360 [    274]   INFO -        #com.intellij.idea.Main - ext: C:\Program Files\Android\Android Studio\jre\jre\lib\ext: [access-bridge-64.jar, cldrdata.jar, dnsns.jar, jaccess.jar, localedata.jar, meta-index, nashorn.jar, sunec.jar, sunjce_provider.jar, sunmscapi.jar, sunpkcs11.jar, zipfs.jar] 
+2020-08-24 12:09:01,361 [    275]   INFO -        #com.intellij.idea.Main - charsets: JNU=Cp1255 file=Cp1255 
+2020-08-24 12:09:01,424 [    338]   INFO -        #com.intellij.idea.Main - CPU cores: 4; ForkJoinPool.commonPool: java.util.concurrent.ForkJoinPool@6c0d6a08[Running, parallelism = 3, size = 0, active = 0, running = 0, steals = 0, tasks = 0, submissions = 0]; factory: com.intellij.concurrency.IdeaForkJoinWorkerThreadFactory@37aa4a51 
+2020-08-24 12:09:02,170 [   1084]   INFO - penapi.util.io.win32.IdeaWin32 - Native filesystem for Windows is operational 
+2020-08-24 12:09:51,034 [  49948]   INFO - llij.ide.plugins.PluginManager - Plugin "Groovy" misses optional descriptor duplicates-groovy.xml 
+2020-08-24 12:09:51,045 [  49959]   INFO - llij.ide.plugins.PluginManager - Plugin "Groovy" misses optional descriptor duplicates-detection-groovy.xml 
+2020-08-24 12:09:51,391 [  50305]   INFO - llij.ide.plugins.PluginManager - Plugin "Java" misses optional descriptor profiler-java.xml 
+2020-08-24 12:09:51,661 [  50575]   INFO - llij.ide.plugins.PluginManager - Loaded bundled plugins: Android APK Support (1.0), Android Games (1.0), Android NDK Support (1.0), Android Support (10.4.0.1), App Links Assistant (0.1), ChangeReminder (193.6911.18.40.6626763), Compose (0.1.0-dev03), Configuration Script (193.6911.18.40.6626763), Copyright (193.6911.18.40.6626763), Coverage (193.6911.18.40.6626763), EditorConfig (193.6911.18.40.6626763), Firebase App Indexing (0.1), Firebase Services (0.1), Firebase Testing (1.0), Git (193.6911.18.40.6626763), GitHub (193.6911.18.40.6626763), Google Cloud Tools Core (0.2.8), Google Cloud Tools For Android Studio (0.2.8), Google Developers Samples (0.3.1), Google Login (1.0), Google Services (0.1), Gradle (193.6911.18.40.6626763), Gradle-Java (193.6911.18.40.6626763), Groovy (193.6911.18.40.6626763), IDEA CORE (193.6911.18.40.6626763), IntelliLang (193.6911.18.40.6626763), JUnit (193.6911.18.40.6626763), Java (193.6911.18.40.6626763), Java Bytecode Decompiler (193.6911.18.40.6626763), Java IDE Customization (193.6911.18.40.6626763), Java Internationalization (193.6911.18.40.6626763), Java Stream Debugger (193.6911.18.40.6626763), Kotlin (1.3.72-release-Studio4.0-5), Layoutlib Native (1.0), Layoutlib Standard (1.0), Mercurial (193.6911.18.40.6626763), Properties (193.6911.18.40.6626763), Settings Repository (193.6911.18.40.6626763), Shell Script (193.6911.18.40.6626763), Smali Support (193.6911.18.40.6626763), Subversion (193.6911.18.40.6626763), Task Management (193.6911.18.40.6626763), Terminal (193.6911.18.40.6626763), Test Recorder (1.0), TestNG (193.6911.18.40.6626763), TextMate bundles (193.6911.18.40.6626763), YAML (193.6911.18.40.6626763) 
+2020-08-24 12:09:53,106 [  52020]   INFO - fs.newvfs.persistent.FSRecords - Marking VFS as corrupted: 'C:\Users\Tali\.AndroidStudio4.0\system\caches\names.dat' does not exist 
+2020-08-24 12:09:53,111 [  52025]   INFO - ellij.util.io.PagedFileStorage - lower=100; upper=500; buffer=10; max=1226 
+2020-08-24 12:09:53,222 [  52136]   INFO - tellij.util.io.FileChannelUtil - interruptible FileChannel-s will be used for indexes 
+2020-08-24 12:09:53,312 [  52226]   INFO - rains.ide.BuiltInServerManager - built-in server started, port 63342 
+2020-08-24 12:09:53,318 [  52232]   INFO - til.net.ssl.CertificateManager - Default SSL context initialized 
+2020-08-24 12:09:53,335 [  52249]   INFO - .history.utils.LocalHistoryLog - local history version mismatch (was: 0, expected: 6), rebuilding... 
+2020-08-24 12:09:53,335 [  52249]   INFO - .history.utils.LocalHistoryLog - FS has been rebuild, rebuilding local history... 
+2020-08-24 12:09:53,395 [  52309]  ERROR - rationStore.ComponentStoreImpl - Conflicting component name 'UsagesStatistic': class com.intellij.internal.statistic.persistence.UsageStatisticsPersistenceComponent and class com.intellij.internal.statistic.persistence.UsageStatisticsPersistenceComponent (componentManager=Application (containerState=ACTIVE) ) 
+java.lang.Throwable: Conflicting component name 'UsagesStatistic': class com.intellij.internal.statistic.persistence.UsageStatisticsPersistenceComponent and class com.intellij.internal.statistic.persistence.UsageStatisticsPersistenceComponent (componentManager=Application (containerState=ACTIVE) )
+	at com.intellij.openapi.diagnostic.Logger.error(Logger.java:145)
+	at com.intellij.configurationStore.ComponentStoreImpl.doAddComponent(ComponentStoreImpl.kt:348)
+	at com.intellij.configurationStore.ComponentStoreImpl.initPersistenceStateComponent(ComponentStoreImpl.kt:129)
+	at com.intellij.configurationStore.ComponentStoreImpl.initComponent(ComponentStoreImpl.kt:96)
+	at com.intellij.configurationStore.ComponentStoreWithExtraComponents.initComponent(ComponentStoreWithExtraComponents.kt:49)
+	at com.intellij.serviceContainer.PlatformComponentManagerImpl.initializeComponent(PlatformComponentManagerImpl.kt:258)
+	at com.intellij.serviceContainer.PlatformComponentManagerImpl.createLightService(PlatformComponentManagerImpl.kt:444)
+	at com.intellij.serviceContainer.PlatformComponentManagerImpl.getOrCreateLightService(PlatformComponentManagerImpl.kt:350)
+	at com.intellij.serviceContainer.PlatformComponentManagerImpl.getLightService$intellij_platform_serviceContainer(PlatformComponentManagerImpl.kt:322)
+	at com.intellij.serviceContainer.PlatformComponentManagerImpl.getService(PlatformComponentManagerImpl.kt:282)
+	at com.intellij.openapi.components.ServiceManager.getService(ServiceManager.java:18)
+	at com.intellij.internal.statistic.persistence.UsageStatisticsPersistenceComponent.getInstance(UsageStatisticsPersistenceComponent.java:54)
+	at com.intellij.ide.gdpr.ConsentOptions.saveConfirmedConsents(ConsentOptions.java:235)
+	at com.intellij.ide.gdpr.ConsentOptions.setSendingUsageStatsAllowed(ConsentOptions.java:136)
+	at com.intellij.internal.statistic.persistence.UsageStatisticsPersistenceComponent.loadState(UsageStatisticsPersistenceComponent.java:72)
+	at com.intellij.internal.statistic.persistence.UsageStatisticsPersistenceComponent.loadState(UsageStatisticsPersistenceComponent.java:26)
+	at com.intellij.configurationStore.ComponentStoreImpl.doInitComponent(ComponentStoreImpl.kt:412)
+	at com.intellij.configurationStore.ComponentStoreImpl.initComponent(ComponentStoreImpl.kt:363)
+	at com.intellij.configurationStore.ComponentStoreImpl.initPersistenceStateComponent(ComponentStoreImpl.kt:130)
+	at com.intellij.configurationStore.ComponentStoreImpl.initComponent(ComponentStoreImpl.kt:96)
+	at com.intellij.configurationStore.ComponentStoreWithExtraComponents.initComponent(ComponentStoreWithExtraComponents.kt:49)
+	at com.intellij.serviceContainer.PlatformComponentManagerImpl.initializeComponent(PlatformComponentManagerImpl.kt:258)
+	at com.intellij.serviceContainer.PlatformComponentManagerImpl.createLightService(PlatformComponentManagerImpl.kt:444)
+	at com.intellij.serviceContainer.PlatformComponentManagerImpl.getOrCreateLightService(PlatformComponentManagerImpl.kt:350)
+	at com.intellij.serviceContainer.PlatformComponentManagerImpl.getLightService$intellij_platform_serviceContainer(PlatformComponentManagerImpl.kt:322)
+	at com.intellij.serviceContainer.PlatformComponentManagerImpl.getService(PlatformComponentManagerImpl.kt:282)
+	at com.intellij.openapi.components.ServiceManager.getService(ServiceManager.java:18)
+	at com.intellij.internal.statistic.persistence.UsageStatisticsPersistenceComponent.getInstance(UsageStatisticsPersistenceComponent.java:54)
+	at com.intellij.internal.statistic.utils.StatisticsUploadAssistant.isCollectAllowed(StatisticsUploadAssistant.java:51)
+	at com.intellij.internal.statistic.eventLog.fus.FeatureUsageEventLoggerProvider.isRecordEnabled(FeatureUsageEventLoggerProvider.kt:13)
+	at com.intellij.internal.statistic.eventLog.StatisticsEventLoggerProvider.createLogger(StatisticsEventLogger.kt:40)
+	at com.intellij.internal.statistic.eventLog.StatisticsEventLoggerProvider.<init>(StatisticsEventLogger.kt:26)
+	at com.intellij.internal.statistic.eventLog.StatisticsEventLoggerProvider.<init>(StatisticsEventLogger.kt:25)
+	at com.intellij.internal.statistic.eventLog.fus.FeatureUsageEventLoggerProvider.<init>(FeatureUsageEventLoggerProvider.kt:9)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:423)
+	at com.intellij.serviceContainer.PlatformComponentManagerImpl.instantiateClass(PlatformComponentManagerImpl.kt:457)
+	at com.intellij.openapi.extensions.impl.ExtensionComponentAdapter.instantiateClass(ExtensionComponentAdapter.java:54)
+	at com.intellij.openapi.extensions.impl.XmlExtensionAdapter$SimpleConstructorInjectionAdapter.instantiateClass(XmlExtensionAdapter.java:95)
+	at com.intellij.openapi.extensions.impl.ExtensionComponentAdapter.createInstance(ExtensionComponentAdapter.java:45)
+	at com.intellij.openapi.extensions.impl.XmlExtensionAdapter.createInstance(XmlExtensionAdapter.java:63)
+	at com.intellij.openapi.extensions.impl.ExtensionPointImpl.processAdapter(ExtensionPointImpl.java:442)
+	at com.intellij.openapi.extensions.impl.ExtensionPointImpl.processAdapter(ExtensionPointImpl.java:429)
+	at com.intellij.openapi.extensions.impl.ExtensionPointImpl.access$100(ExtensionPointImpl.java:33)
+	at com.intellij.openapi.extensions.impl.ExtensionPointImpl$1.next(ExtensionPointImpl.java:337)
+	at com.intellij.openapi.extensions.impl.ExtensionProcessingHelper.computeSafeIfAny(ExtensionProcessingHelper.java:39)
+	at com.intellij.openapi.extensions.impl.ExtensionProcessingHelper.findFirstSafe(ExtensionProcessingHelper.java:34)
+	at com.intellij.openapi.extensions.ExtensionPointName.findFirstSafe(ExtensionPointName.java:55)
+	at com.intellij.internal.statistic.eventLog.StatisticsEventLoggerKt.getEventLogProvider(StatisticsEventLogger.kt:80)
+	at com.intellij.internal.statistic.eventLog.fus.FeatureUsageLogger.<clinit>(FeatureUsageLogger.kt:25)
+	at com.intellij.configurationStore.statistic.eventLog.FeatureUsageSettingsEvents$logDefaultConfigurationState$1.run(FeatureUsageSettingsEvents.kt:40)
+	at com.intellij.util.concurrency.BoundedTaskExecutor.doRun(BoundedTaskExecutor.java:222)
+	at com.intellij.util.concurrency.BoundedTaskExecutor.access$200(BoundedTaskExecutor.java:30)
+	at com.intellij.util.concurrency.BoundedTaskExecutor$1.execute(BoundedTaskExecutor.java:201)
+	at com.intellij.util.concurrency.BoundedTaskExecutor$1.run(BoundedTaskExecutor.java:193)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+2020-08-24 12:09:53,408 [  52322]  ERROR - rationStore.ComponentStoreImpl - Android Studio 4.0.1  Build #AI-193.6911.18.40.6626763 
+2020-08-24 12:09:53,408 [  52322]  ERROR - rationStore.ComponentStoreImpl - JDK: 1.8.0_242-release; VM: OpenJDK 64-Bit Server VM; Vendor: JetBrains s.r.o 
+2020-08-24 12:09:53,409 [  52323]  ERROR - rationStore.ComponentStoreImpl - OS: Windows 10 
+2020-08-24 12:09:53,414 [  52328]   INFO - pl.local.NativeFileWatcherImpl - Starting file watcher: C:\Program Files\Android\Android Studio\bin\fsnotifier64.exe 
+2020-08-24 12:09:53,571 [  52485]   INFO - com.intellij.ide.ui.UISettings - Loaded: fontSize=13, fontScale=1.0; restored: fontSize=13, fontScale=1.0 
+2020-08-24 12:09:53,574 [  52488]   INFO - com.intellij.ide.ui.UISettings - Loaded: fontSize=15, fontScale=1.25; restored: fontSize=12, fontScale=1.0 
+2020-08-24 12:09:53,683 [  52597]   INFO - pl.local.NativeFileWatcherImpl - Native file watcher is operational. 
+2020-08-24 12:09:53,799 [  52713]  ERROR - r.PlatformComponentManagerImpl - Assertion failed 
+java.lang.Throwable: Assertion failed
+	at com.intellij.openapi.diagnostic.Logger.assertTrue(Logger.java:180)
+	at com.intellij.openapi.diagnostic.Logger.assertTrue(Logger.java:189)
+	at com.intellij.serviceContainer.PlatformComponentManagerImpl.getOrCreateLightService(PlatformComponentManagerImpl.kt:360)
+	at com.intellij.serviceContainer.PlatformComponentManagerImpl.getLightService$intellij_platform_serviceContainer(PlatformComponentManagerImpl.kt:322)
+	at com.intellij.serviceContainer.PlatformComponentManagerImpl.getService(PlatformComponentManagerImpl.kt:282)
+	at com.intellij.openapi.components.ServiceManager.getService(ServiceManager.java:18)
+	at com.intellij.internal.statistic.persistence.UsageStatisticsPersistenceComponent.getInstance(UsageStatisticsPersistenceComponent.java:54)
+	at com.intellij.internal.statistic.utils.StatisticsUploadAssistant.isCollectAllowed(StatisticsUploadAssistant.java:51)
+	at com.intellij.internal.statistic.eventLog.fus.FeatureUsageEventLoggerProvider.isRecordEnabled(FeatureUsageEventLoggerProvider.kt:13)
+	at com.intellij.internal.statistic.eventLog.StatisticsEventLoggerProvider.createLogger(StatisticsEventLogger.kt:40)
+	at com.intellij.internal.statistic.eventLog.StatisticsEventLoggerProvider.<init>(StatisticsEventLogger.kt:26)
+	at com.intellij.internal.statistic.eventLog.StatisticsEventLoggerProvider.<init>(StatisticsEventLogger.kt:25)
+	at com.intellij.internal.statistic.eventLog.fus.FeatureUsageEventLoggerProvider.<init>(FeatureUsageEventLoggerProvider.kt:9)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:423)
+	at com.intellij.serviceContainer.PlatformComponentManagerImpl.instantiateClass(PlatformComponentManagerImpl.kt:457)
+	at com.intellij.openapi.extensions.impl.ExtensionComponentAdapter.instantiateClass(ExtensionComponentAdapter.java:54)
+	at com.intellij.openapi.extensions.impl.XmlExtensionAdapter$SimpleConstructorInjectionAdapter.instantiateClass(XmlExtensionAdapter.java:95)
+	at com.intellij.openapi.extensions.impl.ExtensionComponentAdapter.createInstance(ExtensionComponentAdapter.java:45)
+	at com.intellij.openapi.extensions.impl.XmlExtensionAdapter.createInstance(XmlExtensionAdapter.java:63)
+	at com.intellij.openapi.extensions.impl.ExtensionPointImpl.processAdapter(ExtensionPointImpl.java:442)
+	at com.intellij.openapi.extensions.impl.ExtensionPointImpl.processAdapter(ExtensionPointImpl.java:429)
+	at com.intellij.openapi.extensions.impl.ExtensionPointImpl.access$100(ExtensionPointImpl.java:33)
+	at com.intellij.openapi.extensions.impl.ExtensionPointImpl$1.next(ExtensionPointImpl.java:337)
+	at com.intellij.openapi.extensions.impl.ExtensionProcessingHelper.computeSafeIfAny(ExtensionProcessingHelper.java:39)
+	at com.intellij.openapi.extensions.impl.ExtensionProcessingHelper.findFirstSafe(ExtensionProcessingHelper.java:34)
+	at com.intellij.openapi.extensions.ExtensionPointName.findFirstSafe(ExtensionPointName.java:55)
+	at com.intellij.internal.statistic.eventLog.StatisticsEventLoggerKt.getEventLogProvider(StatisticsEventLogger.kt:80)
+	at com.intellij.internal.statistic.eventLog.fus.FeatureUsageLogger.<clinit>(FeatureUsageLogger.kt:25)
+	at com.intellij.configurationStore.statistic.eventLog.FeatureUsageSettingsEvents$logDefaultConfigurationState$1.run(FeatureUsageSettingsEvents.kt:40)
+	at com.intellij.util.concurrency.BoundedTaskExecutor.doRun(BoundedTaskExecutor.java:222)
+	at com.intellij.util.concurrency.BoundedTaskExecutor.access$200(BoundedTaskExecutor.java:30)
+	at com.intellij.util.concurrency.BoundedTaskExecutor$1.execute(BoundedTaskExecutor.java:201)
+	at com.intellij.util.concurrency.BoundedTaskExecutor$1.run(BoundedTaskExecutor.java:193)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+2020-08-24 12:09:53,803 [  52717]  ERROR - r.PlatformComponentManagerImpl - Android Studio 4.0.1  Build #AI-193.6911.18.40.6626763 
+2020-08-24 12:09:53,803 [  52717]  ERROR - r.PlatformComponentManagerImpl - JDK: 1.8.0_242-release; VM: OpenJDK 64-Bit Server VM; Vendor: JetBrains s.r.o 
+2020-08-24 12:09:53,804 [  52718]  ERROR - r.PlatformComponentManagerImpl - OS: Windows 10 
+2020-08-24 12:09:53,829 [  52743]   INFO - rnal.statistic.DeviceIdManager - Generating new Device ID 
+2020-08-24 12:09:53,830 [  52744]   INFO - eventLog.EventLogConfiguration - Generating salt for the device 
+2020-08-24 12:09:53,903 [  52817]   INFO - gs.impl.UpdateCheckerComponent - channel: release 
+2020-08-24 12:09:54,358 [  53272]   WARN - nSystem.impl.ActionManagerImpl - keymap "ReSharper" not found [Plugin: com.android.tools.ndk] 
+2020-08-24 12:09:57,673 [  56587]   INFO - ij.psi.stubs.StubUpdatingIndex - Following new file types will be indexed:HTML,GDBCommands,JAVA,XML,Properties,kotlin_builtins,CLASS,DGM,KJSM,LLDBCommands,Groovy,KNM,Kotlin 
+2020-08-24 12:09:59,375 [  58289]   INFO - dea.updater.SdkComponentSource - Downloading https://dl.google.com/android/repository/addons_list-3.xml 
+2020-08-24 12:09:59,506 [  58420]   INFO - s.RepoProgressIndicatorAdapter - File C:\Users\Tali\.android\repositories.cfg could not be loaded. 
+2020-08-24 12:09:59,515 [  58429]   INFO - s.RepoProgressIndicatorAdapter - Downloading https://dl.google.com/android/repository/addons_list-3.xml 
+2020-08-24 12:10:00,150 [  59064]   INFO - dea.updater.SdkComponentSource - File C:\Users\Tali\.android\repositories.cfg could not be loaded. 
+2020-08-24 12:10:00,199 [  59113]   INFO - dea.updater.SdkComponentSource - Downloading https://dl.google.com/android/repository/repository2-1.xml 
+2020-08-24 12:10:00,199 [  59113]   INFO - dea.updater.SdkComponentSource - Downloading https://dl.google.com/android/repository/sys-img/google_apis/sys-img2-1.xml 
+2020-08-24 12:10:00,205 [  59119]   INFO - dea.updater.SdkComponentSource - Downloading https://dl.google.com/android/repository/glass/addon2-1.xml 
+2020-08-24 12:10:00,206 [  59120]   INFO - s.RepoProgressIndicatorAdapter - Downloading https://dl.google.com/android/repository/addon2-1.xml 
+2020-08-24 12:10:00,206 [  59120]   INFO - dea.updater.SdkComponentSource - Downloading https://dl.google.com/android/repository/sys-img/android/sys-img2-1.xml 
+2020-08-24 12:10:00,206 [  59120]   INFO - dea.updater.SdkComponentSource - Downloading https://dl.google.com/android/repository/extras/intel/addon2-1.xml 
+2020-08-24 12:10:00,208 [  59122]   INFO - s.RepoProgressIndicatorAdapter - Downloading https://dl.google.com/android/repository/sys-img/google_apis/sys-img2-1.xml 
+2020-08-24 12:10:00,204 [  59118]   INFO - s.RepoProgressIndicatorAdapter - Downloading https://dl.google.com/android/repository/repository2-1.xml 
+2020-08-24 12:10:00,216 [  59130]   INFO - s.RepoProgressIndicatorAdapter - Downloading https://dl.google.com/android/repository/extras/intel/addon2-1.xml 
+2020-08-24 12:10:00,216 [  59130]   INFO - dea.updater.SdkComponentSource - Downloading https://dl.google.com/android/repository/addon2-1.xml 
+2020-08-24 12:10:00,217 [  59131]   INFO - s.RepoProgressIndicatorAdapter - Downloading https://dl.google.com/android/repository/glass/addon2-1.xml 
+2020-08-24 12:10:00,218 [  59132]   INFO - s.RepoProgressIndicatorAdapter - Downloading https://dl.google.com/android/repository/sys-img/android-wear/sys-img2-1.xml 
+2020-08-24 12:10:00,219 [  59133]   INFO - s.RepoProgressIndicatorAdapter - Downloading https://dl.google.com/android/repository/sys-img/android-wear-cn/sys-img2-1.xml 
+2020-08-24 12:10:00,222 [  59136]   INFO - dea.updater.SdkComponentSource - Downloading https://dl.google.com/android/repository/sys-img/android-wear/sys-img2-1.xml 
+2020-08-24 12:10:00,223 [  59137]   INFO - dea.updater.SdkComponentSource - Downloading https://dl.google.com/android/repository/sys-img/android-automotive/sys-img2-1.xml 
+2020-08-24 12:10:00,224 [  59138]   INFO - dea.updater.SdkComponentSource - Downloading https://dl.google.com/android/repository/sys-img/google_apis_playstore/sys-img2-1.xml 
+2020-08-24 12:10:00,230 [  59144]   INFO - s.RepoProgressIndicatorAdapter - Downloading https://dl.google.com/android/repository/sys-img/android-automotive/sys-img2-1.xml 
+2020-08-24 12:10:00,273 [  59187]   INFO - dea.updater.SdkComponentSource - Downloading https://dl.google.com/android/repository/sys-img/android-tv/sys-img2-1.xml 
+2020-08-24 12:10:00,278 [  59192]   INFO - dea.updater.SdkComponentSource - Downloading https://dl.google.com/android/repository/sys-img/android-wear-cn/sys-img2-1.xml 
+2020-08-24 12:10:00,280 [  59194]   INFO - s.RepoProgressIndicatorAdapter - Downloading https://dl.google.com/android/repository/sys-img/google_apis_playstore/sys-img2-1.xml 
+2020-08-24 12:10:00,315 [  59229]   INFO - s.RepoProgressIndicatorAdapter - Downloading https://dl.google.com/android/repository/sys-img/android/sys-img2-1.xml 
+2020-08-24 12:10:00,323 [  59237]   INFO - s.RepoProgressIndicatorAdapter - Downloading https://dl.google.com/android/repository/sys-img/android-tv/sys-img2-1.xml 
+2020-08-24 12:10:00,336 [  59250]   INFO - il.indexing.FileBasedIndexImpl - Indices to be built:FrameworkDetectionIndex,TodoIndex,IdIndex,FilenameIndex,filetypes,Stubs,Trigram.Index,fileIncludes,DomFileIndex,RelaxSymbolIndex,XmlTagNames,XmlNamespaces,html5.custom.attributes.index,SchemaTypeInheritance,json.file.root.values,ImageFileInfoIndex,bytecodeAnalysis,java.auto.module.name,java.source.module.name,java.null.method.argument,java.simple.property,java.fun.expression,java.binary.plus.expression,RefQueueIndex,xmlProperties,GroovyDslFileIndex,groovy.trait.fields,groovy.trait.methods,org.jetbrains.kotlin.idea.versions.KotlinJvmMetadataVersionIndex,org.jetbrains.kotlin.idea.versions.KotlinJsMetadataVersionIndex,org.jetbrains.kotlin.idea.vfilefinder.KotlinClassFileIndex,org.jetbrains.kotlin.idea.vfilefinder.KotlinJavaScriptMetaFileIndex,org.jetbrains.kotlin.idea.vfilefinder.KotlinMetadataFileIndex,org.jetbrains.kotlin.idea.vfilefinder.KotlinMetadataFilePackageIndex,org.jetbrains.kotlin.idea.vfilefinder.KotlinModuleMappingIndex,org.jetbrains.kotlin.idea.vfilefinder.KotlinPackageSourcesMemberNamesIndex,org.jetbrains.kotlin.idea.vfilefinder.KotlinJvmModuleAnnotationsIndex,org.jetbrains.kotlin.ide.konan.index.KotlinNativeMetaFileIndex,com.android.tools.idea.model.AndroidManifestIndex$Companion$NAME$1.NAME,BindingXmlIndex,MlModelFileIndex,FileNameWithoutExtensionIndex,android.ndk.jni.nativemethodindex,editorconfig.index.name,yaml.keys.name 
+2020-08-24 12:10:00,342 [  59256]   INFO - pl$FileIndexDataInitialization - Initialization done: 6795 
+2020-08-24 12:10:01,238 [  60152]   INFO - tellij.psi.stubs.StubIndexImpl - Following stub indices will be built:dom.namespaceKey,dom.elementClass,java.annotations,java.class.extlist,java.field.name,java.method.name,jvm.static.member.name,jvm.static.member.type,java.anonymous.baseref,java.method.parameter.types,java.class.shortname,java.class.fqn,java.module.name,properties.index,gr.class.fqn,gr.script.fqn,gr.field.name,gr.method.name,gr.annot.method.name,gr.annot.members,gr.script.class,gr.class.super,gr.anonymous.class,org.jetbrains.kotlin.idea.stubindex.KotlinExactPackagesIndex,org.jetbrains.kotlin.idea.stubindex.KotlinTopLevelClassByPackageIndex,org.jetbrains.kotlin.idea.stubindex.KotlinTopLevelFunctionByPackageIndex,org.jetbrains.kotlin.idea.stubindex.KotlinTopLevelPropertyByPackageIndex,org.jetbrains.kotlin.idea.stubindex.KotlinTopLevelTypeAliasByPackageIndex,org.jetbrains.kotlin.idea.stubindex.KotlinClassShortNameIndex,org.jetbrains.kotlin.idea.stubindex.KotlinFullClassNameIndex,org.jetbrains.kotlin.idea.stubindex.KotlinPropertyShortNameIndex,org.jetbrains.kotlin.idea.stubindex.KotlinFunctionShortNameIndex,org.jetbrains.kotlin.idea.stubindex.KotlinTypeAliasShortNameIndex,org.jetbrains.kotlin.idea.stubindex.KotlinSuperClassIndex,org.jetbrains.kotlin.idea.stubindex.KotlinTopLevelFunctionFqnNameIndex,org.jetbrains.kotlin.idea.stubindex.KotlinTopLevelPropertyFqnNameIndex,org.jetbrains.kotlin.idea.stubindex.KotlinTopLevelTypeAliasFqNameIndex,org.jetbrains.kotlin.idea.stubindex.KotlinTopLevelExtensionsByReceiverTypeIndex,org.jetbrains.kotlin.idea.stubindex.KotlinAnnotationsIndex,org.jetbrains.kotlin.idea.stubindex.KotlinProbablyNothingFunctionShortNameIndex,org.jetbrains.kotlin.idea.stubindex.KotlinProbablyNothingPropertyShortNameIndex,org.jetbrains.kotlin.idea.stubindex.KotlinProbablyContractedFunctionShortNameIndex,org.jetbrains.kotlin.idea.stubindex.KotlinFileFacadeFqNameIndex,org.jetbrains.kotlin.idea.stubindex.KotlinFilePartClassIndex,org.jetbrains.kotlin.idea.stubindex.KotlinFileFacadeClassByPackageIndex,org.jetbrains.kotlin.idea.stubindex.KotlinFileFacadeShortNameIndex,org.jetbrains.kotlin.idea.stubindex.KotlinMultifileClassPartIndex,org.jetbrains.kotlin.idea.stubindex.KotlinScriptFqnIndex,org.jetbrains.kotlin.idea.stubindex.KotlinTypeAliasByExpansionShortNameIndex,org.jetbrains.kotlin.idea.stubindex.KotlinOverridableInternalMembersShortNameIndex 
+2020-08-24 12:10:01,239 [  60153]   INFO - exImpl$StubIndexInitialization - Initialization done: 897 
+2020-08-24 12:11:23,176 [ 142090]   WARN - til.ui.update.LazyUiDisposable - use application as a parent disposable 
+2020-08-24 12:12:12,320 [ 191234]   INFO - rationStore.ComponentStoreImpl - Saving appDaemonCodeAnalyzerSettings took 17 ms 
+2020-08-24 12:13:01,839 [ 240753]   INFO - rationStore.ComponentStoreImpl - Saving appInspectionProfileManager took 16 ms 
+2020-08-24 12:15:22,826 [ 381740]   INFO - rationStore.ComponentStoreImpl - Saving appFileTypeManager took 36 ms 
+2020-08-24 12:23:52,727 [ 891641]   INFO - plication.impl.ApplicationImpl - LONG VFS PROCESSING. Topic=NewVirtualFileSystem changes, offender=class com.intellij.openapi.vfs.newvfs.AsyncEventSupport$1, message=after, time=51ms 
+2020-08-24 12:23:57,606 [ 896520]   INFO - rd.FirstRunWizardFrameProvider - Overriding welcome frame to be resizable 
+2020-08-24 12:24:09,292 [ 908206]   INFO - Types.impl.FileTypeManagerImpl - 0 auto-detected files. Detection took 0 ms 
+2020-08-24 12:24:09,292 [ 908206]   INFO - stubs.SerializationManagerImpl - START StubSerializationManager SHUTDOWN 
+2020-08-24 12:24:09,296 [ 908210]   INFO - stubs.SerializationManagerImpl - END StubSerializationManager SHUTDOWN 
+2020-08-24 12:24:09,328 [ 908242]   INFO - il.indexing.FileBasedIndexImpl - START INDEX SHUTDOWN 
+2020-08-24 12:24:09,346 [ 908260]   INFO - il.indexing.FileBasedIndexImpl - END INDEX SHUTDOWN 
+2020-08-24 12:24:09,346 [ 908260]   INFO - newvfs.persistent.PersistentFS - VFS dispose started 
+2020-08-24 12:24:09,348 [ 908262]   INFO - newvfs.persistent.PersistentFS - VFS dispose completed 
+2020-08-24 12:24:09,369 [ 908283]   INFO - org.jetbrains.io.BuiltInServer - web server stopped 
+2020-08-24 12:24:09,448 [ 908362]   INFO -        #com.intellij.idea.Main - ------------------------------------------------------ IDE SHUTDOWN ------------------------------------------------------ 
+2020-08-24 12:24:09,452 [ 908366]   INFO - org.jetbrains.io.BuiltInServer - web server stopped 
+2020-08-24 12:24:09,462 [ 908376]   INFO - pl.local.NativeFileWatcherImpl - Watcher terminated with exit code 0 
+2020-08-25 20:26:24,743 [      0]   INFO -        #com.intellij.idea.Main - ------------------------------------------------------ IDE STARTED ------------------------------------------------------ 
+2020-08-25 20:26:24,890 [    147]   INFO -        #com.intellij.idea.Main - JNA library (64-bit) loaded in 119 ms 
+2020-08-25 20:26:25,031 [    288]   INFO -        #com.intellij.idea.Main - IDE: Android Studio (build #AI-193.6911.18.40.6626763, 25 Jun 2020 04:42) 
+2020-08-25 20:26:25,031 [    288]   INFO -        #com.intellij.idea.Main - OS: Windows 10 (10.0, amd64) 
+2020-08-25 20:26:25,031 [    288]   INFO -        #com.intellij.idea.Main - JRE: 1.8.0_242-release-1644-b01 (JetBrains s.r.o) 
+2020-08-25 20:26:25,031 [    288]   INFO -        #com.intellij.idea.Main - JVM: 25.242-b01 (OpenJDK 64-Bit Server VM) 
+2020-08-25 20:26:25,032 [    289]   INFO -        #com.intellij.idea.Main - JVM Args: exit -Xms256m -Xmx1280m -XX:ReservedCodeCacheSize=240m -XX:+UseConcMarkSweepGC -XX:SoftRefLRUPolicyMSPerMB=50 -XX:CICompilerCount=2 -Dsun.io.useCanonPrefixCache=false -Djava.net.preferIPv4Stack=true -Djdk.http.auth.tunneling.disabledSchemes="" -Djdk.attach.allowAttachSelf=true -Dkotlinx.coroutines.debug=off -Djdk.module.illegalAccess.silent=true -Djna.nosys=true -Djna.boot.library.path= -Djb.vmOptionsFile=C:\Program Files\Android\Android Studio\bin\studio64.exe.vmoptions -Djava.library.path=C:\Program Files\Android\Android Studio\jre\jre\bin;C:\Program Files\Android\Android Studio\jre\jre\bin\server -Didea.platform.prefix=AndroidStudio -Didea.jre.check=true -Dide.native.launcher=true -Didea.paths.selector=AndroidStudio4.0 -XX:ErrorFile=C:\Users\Tali\java_error_in_studio_%p.log -XX:HeapDumpPath=C:\Users\Tali\java_error_in_studio.hprof 
+2020-08-25 20:26:25,033 [    290]   INFO -        #com.intellij.idea.Main - ext: C:\Program Files\Android\Android Studio\jre\jre\lib\ext: [access-bridge-64.jar, cldrdata.jar, dnsns.jar, jaccess.jar, localedata.jar, meta-index, nashorn.jar, sunec.jar, sunjce_provider.jar, sunmscapi.jar, sunpkcs11.jar, zipfs.jar] 
+2020-08-25 20:26:25,033 [    290]   INFO -        #com.intellij.idea.Main - charsets: JNU=Cp1255 file=Cp1255 
+2020-08-25 20:26:25,301 [    558]   INFO - ntellij.idea.ApplicationLoader - CPU cores: 4; ForkJoinPool.commonPool: java.util.concurrent.ForkJoinPool@234e0441[Running, parallelism = 3, size = 0, active = 0, running = 0, steals = 0, tasks = 0, submissions = 0]; factory: com.intellij.concurrency.IdeaForkJoinWorkerThreadFactory@318b24ee 
+2020-08-25 20:26:25,839 [   1096]   INFO - penapi.util.io.win32.IdeaWin32 - Native filesystem for Windows is operational 
+2020-08-25 20:26:27,354 [   2611]   INFO - llij.ide.plugins.PluginManager - Plugin "Groovy" misses optional descriptor duplicates-groovy.xml 
+2020-08-25 20:26:27,356 [   2613]   INFO - llij.ide.plugins.PluginManager - Plugin "Groovy" misses optional descriptor duplicates-detection-groovy.xml 
+2020-08-25 20:26:27,992 [   3249]   INFO - llij.ide.plugins.PluginManager - Plugin "Java" misses optional descriptor profiler-java.xml 
+2020-08-25 20:26:28,370 [   3627]   INFO - llij.ide.plugins.PluginManager - Loaded bundled plugins: Android APK Support (1.0), Android Games (1.0), Android NDK Support (1.0), Android Support (10.4.0.1), App Links Assistant (0.1), ChangeReminder (193.6911.18.40.6626763), Compose (0.1.0-dev03), Configuration Script (193.6911.18.40.6626763), Copyright (193.6911.18.40.6626763), Coverage (193.6911.18.40.6626763), EditorConfig (193.6911.18.40.6626763), Firebase App Indexing (0.1), Firebase Services (0.1), Firebase Testing (1.0), Git (193.6911.18.40.6626763), GitHub (193.6911.18.40.6626763), Google Cloud Tools Core (0.2.8), Google Cloud Tools For Android Studio (0.2.8), Google Developers Samples (0.3.1), Google Login (1.0), Google Services (0.1), Gradle (193.6911.18.40.6626763), Gradle-Java (193.6911.18.40.6626763), Groovy (193.6911.18.40.6626763), IDEA CORE (193.6911.18.40.6626763), IntelliLang (193.6911.18.40.6626763), JUnit (193.6911.18.40.6626763), Java (193.6911.18.40.6626763), Java Bytecode Decompiler (193.6911.18.40.6626763), Java IDE Customization (193.6911.18.40.6626763), Java Internationalization (193.6911.18.40.6626763), Java Stream Debugger (193.6911.18.40.6626763), Kotlin (1.3.72-release-Studio4.0-5), Layoutlib Native (1.0), Layoutlib Standard (1.0), Mercurial (193.6911.18.40.6626763), Properties (193.6911.18.40.6626763), Settings Repository (193.6911.18.40.6626763), Shell Script (193.6911.18.40.6626763), Smali Support (193.6911.18.40.6626763), Subversion (193.6911.18.40.6626763), Task Management (193.6911.18.40.6626763), Terminal (193.6911.18.40.6626763), Test Recorder (1.0), TestNG (193.6911.18.40.6626763), TextMate bundles (193.6911.18.40.6626763), YAML (193.6911.18.40.6626763) 
+2020-08-25 20:26:30,496 [   5753]   INFO - ellij.util.io.PagedFileStorage - lower=100; upper=500; buffer=10; max=1226 
+2020-08-25 20:26:30,515 [   5772]   INFO - tellij.util.io.FileChannelUtil - interruptible FileChannel-s will be used for indexes 
+2020-08-25 20:26:30,744 [   6001]   INFO - pl.local.NativeFileWatcherImpl - Starting file watcher: C:\Program Files\Android\Android Studio\bin\fsnotifier64.exe 
+2020-08-25 20:26:30,745 [   6002]   INFO - til.net.ssl.CertificateManager - Default SSL context initialized 
+2020-08-25 20:26:30,881 [   6138]   INFO - pl.local.NativeFileWatcherImpl - Native file watcher is operational. 
+2020-08-25 20:26:30,902 [   6159]   INFO - rains.ide.BuiltInServerManager - built-in server started, port 63342 
+2020-08-25 20:26:30,999 [   6256]   INFO - com.intellij.ide.ui.UISettings - Loaded: fontSize=13, fontScale=1.0; restored: fontSize=13, fontScale=1.0 
+2020-08-25 20:26:31,006 [   6263]   INFO - com.intellij.ide.ui.UISettings - Loaded: fontSize=12, fontScale=1.0; restored: fontSize=12, fontScale=1.0 
+2020-08-25 20:26:31,266 [   6523]   INFO - gs.impl.UpdateCheckerComponent - channel: release 
+2020-08-25 20:26:31,590 [   6847]   WARN - nSystem.impl.ActionManagerImpl - keymap "ReSharper" not found [Plugin: com.android.tools.ndk] 
+2020-08-25 20:26:33,858 [   9115]   INFO - pl$FileIndexDataInitialization - Initialization done: 2849 
+2020-08-25 20:26:34,715 [   9972]   INFO - exImpl$StubIndexInitialization - Initialization done: 857 
+2020-08-25 20:26:35,597 [  10854]   INFO - rd.FirstRunWizardFrameProvider - Overriding welcome frame to be resizable 
+2020-08-25 20:26:35,832 [  11089]   INFO - dea.updater.SdkComponentSource - Downloading https://dl.google.com/android/repository/addons_list-3.xml 
+2020-08-25 20:26:36,206 [  11463]   INFO - dea.updater.SdkComponentSource - File C:\Users\Tali\.android\repositories.cfg could not be loaded. 
+2020-08-25 20:26:36,213 [  11470]   INFO - dea.updater.SdkComponentSource - Downloading https://dl.google.com/android/repository/sys-img/android/sys-img2-1.xml 
+2020-08-25 20:26:36,216 [  11473]   INFO - dea.updater.SdkComponentSource - Downloading https://dl.google.com/android/repository/sys-img/android-automotive/sys-img2-1.xml 
+2020-08-25 20:26:36,216 [  11473]   INFO - dea.updater.SdkComponentSource - Downloading https://dl.google.com/android/repository/sys-img/android-wear/sys-img2-1.xml 
+2020-08-25 20:26:36,219 [  11476]   INFO - dea.updater.SdkComponentSource - Downloading https://dl.google.com/android/repository/repository2-1.xml 
+2020-08-25 20:26:36,223 [  11480]   INFO - dea.updater.SdkComponentSource - Downloading https://dl.google.com/android/repository/addon2-1.xml 
+2020-08-25 20:26:36,224 [  11481]   INFO - dea.updater.SdkComponentSource - Downloading https://dl.google.com/android/repository/sys-img/android-tv/sys-img2-1.xml 
+2020-08-25 20:26:36,224 [  11481]   INFO - dea.updater.SdkComponentSource - Downloading https://dl.google.com/android/repository/sys-img/google_apis_playstore/sys-img2-1.xml 
+2020-08-25 20:26:36,226 [  11483]   INFO - dea.updater.SdkComponentSource - Downloading https://dl.google.com/android/repository/extras/intel/addon2-1.xml 
+2020-08-25 20:26:36,227 [  11484]   INFO - dea.updater.SdkComponentSource - Downloading https://dl.google.com/android/repository/sys-img/google_apis/sys-img2-1.xml 
+2020-08-25 20:26:36,228 [  11485]   INFO - dea.updater.SdkComponentSource - Downloading https://dl.google.com/android/repository/sys-img/android-wear-cn/sys-img2-1.xml 
+2020-08-25 20:26:36,230 [  11487]   INFO - dea.updater.SdkComponentSource - Downloading https://dl.google.com/android/repository/glass/addon2-1.xml 
+2020-08-25 20:27:02,611 [  37868]   WARN - ess.util.ProgressIndicatorBase - This progress indicator is indeterminate, this may lead to visual inconsistency. Please call setIndeterminate(false) before you start progress.
+com.intellij.util.download.impl.FileDownloaderImpl$ConcurrentTasksProgressManager.updateFraction(FileDownloaderImpl.java:328) 
+2020-08-25 20:29:15,351 [ 170608]   WARN - ugins.textmate.TextMateService - Missing builtin bundles, checked: 
+C:/Users/Tali/.AndroidStudio4.0/config/plugins/textmate/lib/bundles
+C:/Program Files/Android/Android Studio/plugins/textmate/lib/bundles 
+2020-08-25 20:31:34,136 [ 309393]   WARN - dea.sdk.SystemInfoStatsMonitor - CpuInfoFlags.fromExitCode(): unknown flag values '0x80' 
+2020-08-25 20:31:35,103 [ 310360]   INFO - rationStore.ComponentStoreImpl - Saving default projectCompilerConfiguration took 13 ms 
+2020-08-25 20:31:36,145 [ 311402]   INFO - rojectCodeStyleSettingsManager - Initialized from default code style settings. 
+2020-08-25 20:31:37,279 [ 312536]   INFO - artup.AndroidStudioInitializer - Failed to disable 'org.intellij.plugins.intelliLang.inject.groovy.GrConcatenationInjector' 
+2020-08-25 20:31:37,282 [ 312539]   INFO - j.ide.script.IdeStartupScripts - 0 startup script(s) found 
+2020-08-25 20:31:37,548 [ 312805]   WARN - WindowsPerformanceHintsChecker - Error retrieving status of virus checker 
+java.io.IOException: Error code 2: The system cannot find the file specified.
+	at com.android.tools.idea.diagnostics.windows.WindowsDefenderRegistryStatusProvider.getRealtimeScanningStatus(WindowsDefenderRegistryStatusProvider.java:72)
+	at com.android.tools.idea.diagnostics.WindowsPerformanceHintsChecker.checkWindowsDefender(WindowsPerformanceHintsChecker.java:122)
+	at com.android.tools.idea.diagnostics.WindowsPerformanceHintsChecker.access$000(WindowsPerformanceHintsChecker.java:66)
+	at com.android.tools.idea.diagnostics.WindowsPerformanceHintsChecker$1.lambda$projectOpened$0(WindowsPerformanceHintsChecker.java:92)
+	at com.intellij.openapi.application.impl.ApplicationImpl$1.run(ApplicationImpl.java:238)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+Caused by: com.sun.jna.platform.win32.Win32Exception: The system cannot find the file specified.
+	at com.sun.jna.platform.win32.Advapi32Util.registryGetIntValue(Advapi32Util.java:1094)
+	at com.sun.jna.platform.win32.Advapi32Util.registryGetIntValue(Advapi32Util.java:1069)
+	at com.sun.jna.platform.win32.Advapi32Util.registryGetIntValue(Advapi32Util.java:1044)
+	at com.android.tools.idea.diagnostics.windows.WindowsDefenderRegistryStatusProvider.getRealtimeScanningStatus(WindowsDefenderRegistryStatusProvider.java:65)
+	... 9 more
+2020-08-25 20:31:37,683 [ 312940]   INFO - WindowsPerformanceHintsChecker - Windows Defender status: UNKNOWN_STATUS; projectDirExcluded? false 
+2020-08-25 20:31:39,135 [ 314392]   INFO - tInitializationStartupActivity - New project initialization requested. 
+2020-08-25 20:31:39,135 [ 314392]   INFO - tInitializationStartupActivity - Scheduling new project initialization. 
+2020-08-25 20:31:39,136 [ 314393]   INFO - idea.npw.model.NewProjectModel - Rendering a new project. 
+2020-08-25 20:31:39,140 [ 314397]   INFO - pw.model.MultiTemplateRenderer - Generating sources. 
+2020-08-25 20:31:39,166 [ 314423]   INFO - testKnownPluginVersionProvider - 'gradle' plugin missing from the offline Maven repo, will use default 4.0.1 
+2020-08-25 20:31:39,176 [ 314433]   INFO - testKnownPluginVersionProvider - 'gradle' plugin missing from the offline Maven repo, will use default 4.0.1 
+2020-08-25 20:31:39,176 [ 314433]   INFO - testKnownPluginVersionProvider - 'gradle' plugin missing from the offline Maven repo, will use default 4.0.1 
+2020-08-25 20:31:39,177 [ 314434]   INFO - testKnownPluginVersionProvider - 'gradle' plugin missing from the offline Maven repo, will use default 4.0.1 
+2020-08-25 20:31:39,178 [ 314435]   INFO - testKnownPluginVersionProvider - 'gradle' plugin missing from the offline Maven repo, will use default 4.0.1 
+2020-08-25 20:31:39,236 [ 314493]   INFO - testKnownPluginVersionProvider - 'gradle' plugin missing from the offline Maven repo, will use default 4.0.1 
+2020-08-25 20:31:39,572 [ 314829]   INFO - .diagnostic.PerformanceWatcher - Pushing properties took 1ms; general responsiveness: ok; EDT responsiveness: ok 
+2020-08-25 20:31:39,639 [ 314896]   INFO - testKnownPluginVersionProvider - 'gradle' plugin missing from the offline Maven repo, will use default 4.0.1 
+2020-08-25 20:31:39,640 [ 314897]   INFO - testKnownPluginVersionProvider - 'gradle' plugin missing from the offline Maven repo, will use default 4.0.1 
+2020-08-25 20:31:39,640 [ 314897]   INFO - testKnownPluginVersionProvider - 'gradle' plugin missing from the offline Maven repo, will use default 4.0.1 
+2020-08-25 20:31:39,641 [ 314898]   INFO - testKnownPluginVersionProvider - 'gradle' plugin missing from the offline Maven repo, will use default 4.0.1 
+2020-08-25 20:31:39,643 [ 314900]   INFO - testKnownPluginVersionProvider - 'gradle' plugin missing from the offline Maven repo, will use default 4.0.1 
+2020-08-25 20:31:39,644 [ 314901]   INFO - testKnownPluginVersionProvider - 'gradle' plugin missing from the offline Maven repo, will use default 4.0.1 
+2020-08-25 20:31:39,645 [ 314902]   INFO - testKnownPluginVersionProvider - 'gradle' plugin missing from the offline Maven repo, will use default 4.0.1 
+2020-08-25 20:31:39,646 [ 314903]   INFO - testKnownPluginVersionProvider - 'gradle' plugin missing from the offline Maven repo, will use default 4.0.1 
+2020-08-25 20:31:39,646 [ 314903]   INFO - testKnownPluginVersionProvider - 'gradle' plugin missing from the offline Maven repo, will use default 4.0.1 
+2020-08-25 20:31:45,862 [ 321119]   INFO - pw.model.MultiTemplateRenderer - Generate sources completed. 
+2020-08-25 20:31:45,873 [ 321130]   INFO - pw.model.MultiTemplateRenderer - Finishing generating sources. 
+2020-08-25 20:31:46,021 [ 321278]   INFO - indexing.UnindexedFilesUpdater - Unindexed files update canceled 
+2020-08-25 20:31:46,025 [ 321282]   INFO - pl.ProjectRootManagerComponent - project roots have changed 
+2020-08-25 20:31:46,057 [ 321314]   INFO - pl.ProjectRootManagerComponent - project roots have changed 
+2020-08-25 20:31:46,161 [ 321418]   INFO - pl.ProjectRootManagerComponent - project roots have changed 
+2020-08-25 20:31:48,155 [ 323412]   INFO - ngd.lsp.ClangDaemonContextImpl - Using clangd from: C:\Program Files\Android\Android Studio\bin\clang\win\clangd.exe 
+2020-08-25 20:31:48,331 [ 323588]   INFO - .diagnostic.PerformanceWatcher - Post-startup activities under progress took 9203ms; general responsiveness: ok; EDT responsiveness: 3/10 sluggish, 5/10 very slow 
+2020-08-25 20:31:48,512 [ 323769]   INFO - tartup.impl.StartupManagerImpl - C:/Users/Tali/.AndroidStudio4.0/.idea case-sensitivity: expected=false actual=false 
+2020-08-25 20:31:48,698 [ 323955]   INFO - .diagnostic.PerformanceWatcher - Pushing properties took 2154ms; general responsiveness: ok; EDT responsiveness: 1/2 sluggish 
+2020-08-25 20:31:48,828 [ 324085]   INFO - tor.impl.FileEditorManagerImpl - Project opening took 14099 ms 
+2020-08-25 20:31:49,220 [ 324477]   INFO - ssistant.WhatsNewBundleCreator - Remote WNA config file not found 
+java.io.FileNotFoundException: https://developer.android.com/studio/releases/assistant/4.0.1.xml
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream0(HttpURLConnection.java:1896)
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(HttpURLConnection.java:1498)
+	at sun.net.www.protocol.https.HttpsURLConnectionImpl.getInputStream(HttpsURLConnectionImpl.java:268)
+	at com.android.tools.idea.whatsnew.assistant.WhatsNewBundleCreator.downloadConfig(WhatsNewBundleCreator.java:250)
+	at com.android.tools.idea.whatsnew.assistant.WhatsNewBundleCreator.updateConfig(WhatsNewBundleCreator.java:238)
+	at com.android.tools.idea.whatsnew.assistant.WhatsNewBundleCreator.getBundle(WhatsNewBundleCreator.java:125)
+	at com.android.tools.idea.whatsnew.assistant.WhatsNewBundleCreator.getBundle(WhatsNewBundleCreator.java:46)
+	at com.android.tools.idea.assistant.AssistantGetBundleTask.run(AssistantGetBundleTask.kt:18)
+	at com.intellij.openapi.progress.impl.CoreProgressManager$TaskRunnable.run(CoreProgressManager.java:888)
+	at com.intellij.openapi.progress.impl.CoreProgressManager.lambda$runProcess$2(CoreProgressManager.java:163)
+	at com.intellij.openapi.progress.impl.CoreProgressManager.registerIndicatorAndRun(CoreProgressManager.java:585)
+	at com.intellij.openapi.progress.impl.CoreProgressManager.executeProcessUnderProgress(CoreProgressManager.java:531)
+	at com.intellij.openapi.progress.impl.ProgressManagerImpl.executeProcessUnderProgress(ProgressManagerImpl.java:59)
+	at com.intellij.openapi.progress.impl.CoreProgressManager.runProcess(CoreProgressManager.java:150)
+	at com.intellij.openapi.progress.impl.CoreProgressManager$4.lambda$run$0(CoreProgressManager.java:402)
+	at com.intellij.util.ConcurrencyUtil.runUnderThreadName(ConcurrencyUtil.java:221)
+	at com.intellij.openapi.progress.impl.CoreProgressManager$4.run(CoreProgressManager.java:402)
+	at com.intellij.openapi.application.impl.ApplicationImpl$1.run(ApplicationImpl.java:238)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+2020-08-25 20:31:52,714 [ 327971]   INFO - .deployment.AsyncDevicesGetter - adb not found 
+2020-08-25 20:31:59,893 [ 335150]   INFO - .diagnostic.PerformanceWatcher - Indexable file iteration took 11194ms; general responsiveness: 1/11 sluggish; EDT responsiveness: 1/11 sluggish, 2/11 very slow 
+2020-08-25 20:31:59,902 [ 335159]   INFO - indexing.UnindexedFilesUpdater - Unindexed files update started: 24137 files to update 
+2020-08-25 20:32:02,734 [ 337991]   INFO - .deployment.AsyncDevicesGetter - adb not found 
+2020-08-25 20:32:29,330 [ 364587]   INFO - .diagnostic.PerformanceWatcher - Unindexed files update took 29428ms; general responsiveness: ok; EDT responsiveness: ok 
+2020-08-25 20:32:29,347 [ 364604]   INFO -       #com.jetbrains.cidr.lang - Clearing symbols finished in 10 ms 
+2020-08-25 20:32:29,361 [ 364618]   INFO -       #com.jetbrains.cidr.lang - Building symbols in FAST mode, 0 source files from total 0 project files 
+2020-08-25 20:32:29,654 [ 364911]   INFO -       #com.jetbrains.cidr.lang - Loading symbols finished in 307 ms 
+2020-08-25 20:32:29,660 [ 364917]   INFO -       #com.jetbrains.cidr.lang - Loading Header Maps finished in 6 ms 
+2020-08-25 20:32:29,692 [ 364949]   INFO -       #com.jetbrains.cidr.lang - Loading Module Maps finished in 29 ms 
+2020-08-25 20:32:29,693 [ 364950]   INFO -       #com.jetbrains.cidr.lang - Loaded 0 module maps in 0 packs for 0 search roots 
+2020-08-25 20:32:29,695 [ 364952]   INFO -       #com.jetbrains.cidr.lang - Saved 0 module maps in 0 packs 
+2020-08-25 20:32:29,696 [ 364953]   INFO -       #com.jetbrains.cidr.lang - Saving Module Maps finished in 1 ms 
+2020-08-25 20:32:29,696 [ 364953]   INFO -       #com.jetbrains.cidr.lang - Loaded 0 tables for 0 files (0 project files) 
+2020-08-25 20:32:29,696 [ 364953]   INFO -       #com.jetbrains.cidr.lang - Building symbols for 0 source files 
+2020-08-25 20:32:29,707 [ 364964]   INFO -       #com.jetbrains.cidr.lang - Updating Symbols finished in 5 ms 
+2020-08-25 20:32:29,707 [ 364964]   INFO -       #com.jetbrains.cidr.lang - Building symbols for 0 unused headers 
+2020-08-25 20:32:29,708 [ 364965]   INFO -       #com.jetbrains.cidr.lang - Updating Symbols finished in 1 ms 
+2020-08-25 20:32:29,708 [ 364965]   INFO -       #com.jetbrains.cidr.lang - Updating Symbols finished in 1 ms 
+2020-08-25 20:32:29,709 [ 364966]   INFO -       #com.jetbrains.cidr.lang - Saving modified symbols for 0 files (0 tables of total 0) 
+2020-08-25 20:32:29,712 [ 364969]   INFO -       #com.jetbrains.cidr.lang - Saving symbols finished in 3 ms 
+2020-08-25 20:32:29,713 [ 364970]   INFO - g.FileBasedIndexProjectHandler - Reindexing refreshed files: 0 to update, calculated in 0ms 
+2020-08-25 20:32:29,742 [ 364999]   INFO - ge.ExternalProjectsDataStorage - Load external projects data in 13 millis (read time: 4) 
+2020-08-25 20:32:30,126 [ 365383]   INFO - e.project.sync.GradleSyncState - Started single-variant sync with Gradle for project 'GlucoHelper'. 
+2020-08-25 20:32:31,010 [ 366267]   INFO - CompilerWorkspaceConfiguration - Available processors: 4 
+2020-08-25 20:32:31,043 [ 366300]   INFO - s.plugins.gradle.GradleManager - Instructing gradle to use java from C:/Program Files/Android/Android Studio/jre 
+2020-08-25 20:32:31,059 [ 366316]   INFO - s.plugins.gradle.GradleManager - Instructing gradle to use java from C:/Program Files/Android/Android Studio/jre 
+2020-08-25 20:32:31,645 [ 366902]   WARN - com.intellij.util.xmlb.Binding - no accessors for class org.jetbrains.kotlin.idea.highlighter.KotlinDefaultHighlightingSettingsProvider 
+2020-08-25 20:32:32,884 [ 368141]   INFO - .deployment.AsyncDevicesGetter - adb not found 
+2020-08-25 20:32:33,778 [ 369035]   INFO - .deployment.AsyncDevicesGetter - adb not found 
+2020-08-25 20:35:39,864 [ 555121]   INFO - .deployment.AsyncDevicesGetter - adb not found 
+2020-08-25 20:35:40,362 [ 555619]   INFO - .deployment.AsyncDevicesGetter - adb not found 
+2020-08-25 20:35:40,863 [ 556120]   INFO - .deployment.AsyncDevicesGetter - adb not found 
+2020-08-25 20:35:43,367 [ 558624]   INFO - .deployment.AsyncDevicesGetter - adb not found 
+2020-08-25 20:35:43,867 [ 559124]   INFO - .deployment.AsyncDevicesGetter - adb not found 
+2020-08-25 20:35:44,368 [ 559625]   INFO - .deployment.AsyncDevicesGetter - adb not found 
+2020-08-25 20:35:44,870 [ 560127]   INFO - .deployment.AsyncDevicesGetter - adb not found 
+2020-08-25 20:35:47,433 [ 562690]   INFO - testKnownPluginVersionProvider - 'gradle' plugin missing from the offline Maven repo, will use default 4.0.1 
+2020-08-25 20:35:47,441 [ 562698]   INFO - oject.common.GradleInitScripts - init script file sync.studio.tooling contents "initscript {\n    dependencies {\n        classpath files(['C:\\\\Program Files\\\\Android\\\\Android Studio\\\\plugins\\\\android\\\\lib\\\\android.jar', 'C:\\\\Program Files\\\\Android\\\\Android Studio\\\\plugins\\\\android\\\\lib\\\\android.jar', 'C:\\\\Program Files\\\\Android\\\\Android Studio\\\\lib\\\\kotlin-stdlib-1.3.72.jar'])\n    }\n}\nallprojects {\n    apply plugin: com.android.ide.gradle.model.builder.AndroidStudioToolingPlugin\n}\n" 
+2020-08-25 20:35:47,491 [ 562748]   INFO - xecution.GradleExecutionHelper - Passing command-line args to Gradle Tooling API: -Didea.sync.active=true -Porg.gradle.kotlin.dsl.provider.cid=172038081953200 --init-script C:\Users\Tali\AppData\Local\Temp\sync.studio.tooling.gradle -Djava.awt.headless=true --stacktrace -Pandroid.injected.build.model.only=true -Pandroid.injected.build.model.only.advanced=true -Pandroid.injected.invoked.from.ide=true -Pandroid.injected.build.model.only.versioned=3 -Pandroid.injected.studio.version=10.4.0.1 -Pandroid.injected.build.model.disable.src.download=true -Pidea.gradle.do.not.build.tasks=false -Dorg.gradle.internal.GradleProjectBuilderOptions=omit_all_tasks --init-script C:\Users\Tali\AppData\Local\Temp\ijinit.gradle 
+2020-08-25 20:36:03,409 [ 578666]   INFO - .deployment.AsyncDevicesGetter - adb not found 
+2020-08-25 20:36:03,909 [ 579166]   INFO - .deployment.AsyncDevicesGetter - adb not found 
+2020-08-25 20:36:04,412 [ 579669]   INFO - .deployment.AsyncDevicesGetter - adb not found 
+2020-08-25 20:36:04,914 [ 580171]   INFO - .deployment.AsyncDevicesGetter - adb not found 
+2020-08-25 20:36:05,415 [ 580672]   INFO - .deployment.AsyncDevicesGetter - adb not found 
+2020-08-25 20:36:05,915 [ 581172]   INFO - .deployment.AsyncDevicesGetter - adb not found 
+2020-08-25 20:36:06,416 [ 581673]   INFO - .deployment.AsyncDevicesGetter - adb not found 
+2020-08-25 20:37:01,802 [ 637059]   INFO -                         github - Creating GitHub repository 
+2020-08-25 20:37:02,042 [ 637299]   INFO - .deployment.AsyncDevicesGetter - adb not found 
+2020-08-25 20:37:04,463 [ 639720]   INFO -                         github - Successfully created GitHub repository 
+2020-08-25 20:37:04,463 [ 639720]   INFO -                         github - Binding local project with GitHub 
+2020-08-25 20:37:04,463 [ 639720]   INFO -                         github - No git detected, creating empty git repo 
+2020-08-25 20:37:04,501 [ 639758]   INFO -  #git4idea.commands.GitHandler - [.] git version 
+2020-08-25 20:37:04,686 [ 639943]   INFO -  #git4idea.commands.GitHandler - git version 2.21.0.windows.1 
+2020-08-25 20:37:04,714 [ 639971]   INFO - ea.config.GitExecutableManager - Git version for C:\Program Files\Git\cmd\git.exe : 2.21.0 
+2020-08-25 20:37:04,774 [ 640031]   INFO -  #git4idea.commands.GitHandler - [.AndroidStudio4.0] git -c credential.helper= -c core.quotepath=false -c log.showSignature=false init 
+2020-08-25 20:37:05,087 [ 640344]   INFO -  #git4idea.commands.GitHandler - Initialized empty Git repository in C:/Users/Tali/.AndroidStudio4.0/.git/ 
+2020-08-25 20:37:05,194 [ 640451]   INFO - pl.projectlevelman.NewMappings - VCS Root: [Git] - [C:/Users/Tali/.AndroidStudio4.0] 
